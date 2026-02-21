@@ -55,7 +55,7 @@ The AI successfully flags clinical markers for infection and provides a high-con
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Sahithi987654/adversarial-pneumonia-detector.git]
+   git clone https://github.com/Sahithi987654/adversarial-pneumonia-detector.git
    cd adversarial-pneumonia-detector
 
 2. **Install the environment**
